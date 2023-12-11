@@ -5,8 +5,9 @@
 
 | Название проекта | Описание |  Ссылка | 
 | ---------------- | -------- | ------ |
-| Название1        | Основная цель: На основе данных сервиса Яндекс.Недвижимость исследовать параметры влияющие на рыночную стоимость объектов недвижимости.|[Ссылка](https://github.com/trutneva-k/Yandex_practicum/blob/real_estate_analysis/real_estate_analysis.ipynb) |
-| Название2        | Описание проекта 2. Здесь также кратко описывается проект. | [Ссылка](URL-адрес) |
+| Анализ недвижимости| Основная цель: На основе данных сервиса Яндекс.Недвижимость исследовать параметры влияющие на рыночную стоимость объектов недвижимости.|[real_estate_analysis.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/real_estate_analysis/real_estate_analysis.ipynb) |
+| Анализ игр и платформ       | Основная цель: на основе данные интернет-магазина «Стримчик», который продаёт компьютерные игры, выявить закономерности определяющие успешность игры. Методы: Pandas, Мatplotlib, Seaborn, Numpy, Scipy.stats| [game_platform_analysis.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/made_up_1_game_platform_analysis/made_up_1_game_platform_analysis.ipynb) |
 | Название3        | Описание проекта 3. Подробное описание того, чем занимается этот проект. | [Ссылка](URL-адрес) |
+
 
 
