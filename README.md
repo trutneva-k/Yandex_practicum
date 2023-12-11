@@ -1,7 +1,7 @@
 # Yandex_practicum
 Репозиторий самостоятельных работ и поектов в процессе прохождения практикума на Яндекс
 
-## Проекты
+## Учебные проекты
 
 | Название проекта | Описание | Методы | Ссылка |
 | ---------------- | -------- | ------ | ------ |
@@ -12,8 +12,11 @@
 | A/A/B тест |Основаная цель: проведение A/A/B теста для магазина по продаже продуктов питания | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.stats, воронка событий | [Aab_test.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/made_up_2_Aab_test/made_up_2_Aab_test.ipynb) |
 | Анализ рынка заведенйи общепита Москвы | Основная цель: исследование рынка Москвы, найти интересные особенности и презентовать полученные результаты инвесторам из фонда «Shut Up and Take My Money» | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.statsе, Folium, регулярные выражения | [how_to_tell_the_story.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/how_to_tell_the_story/how_to_tell_the_story.ipynb) |
 | Анализ для сервиса самокатов GoFast | Основная цель: Проверить некоторые гипотезы для сервиса аренды самокатов под названием GoFast | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.stats, тест Стьюдента | [scooter_rent_analysis.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/scooter_rent_analysis/scooter_rent_analysis.ipynb)|
+
+## Выпускные проекты
+
+| Название проекта | Описание | Методы | Ссылка |
 | ---------------- | -------- | ------ | ------ |
-| Выпускные проекты| -------- | ------ | ------ |
 
 
 
