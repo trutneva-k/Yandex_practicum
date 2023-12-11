@@ -11,6 +11,9 @@
 | Мой первый Аб тест | Приоретизация гипотез и анализ A/B-теста. | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.statsе, подсчет кумулятивных метрик, | [ab_test_and_commulitive_measure.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/ab_test_and_commulitive_measure/ab_test_and_commulitive_measure.ipynb)|
 | A/A/B тест |Основаная цель: проведение A/A/B теста для магазина по продаже продуктов питания | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.stats, воронка событий | [Aab_test.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/made_up_2_Aab_test/made_up_2_Aab_test.ipynb) |
 | Анализ рынка заведенйи общепита Москвы | Основная цель: исследование рынка Москвы, найти интересные особенности и презентовать полученные результаты инвесторам из фонда «Shut Up and Take My Money» | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.statsе, Folium, регулярные выражения | [how_to_tell_the_story.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/how_to_tell_the_story/how_to_tell_the_story.ipynb) |
+| Анализ для сервиса самокатов GoFast | Основная цель: Проверить некоторые гипотезы для сервиса аренды самокатов под названием GoFast | Pandas, Мatplotlib, Seaborn, Numpy, Scipy.stats, тест Стьюдента | [scooter_rent_analysis.ipynb](https://github.com/trutneva-k/Yandex_practicum/blob/scooter_rent_analysis/scooter_rent_analysis.ipynb)|
+| ---------------- | -------- | ------ | ------ |
+| Выпускные проекты| -------- | ------ | ------ |
 
 
 
